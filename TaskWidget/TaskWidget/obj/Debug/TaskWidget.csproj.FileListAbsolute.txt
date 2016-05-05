@@ -1,0 +1,12 @@
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\TaskWidget.dll
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\TaskWidget.pdb
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\obj\Debug\TaskWidget.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\obj\Debug\TaskWidget.dll
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\obj\Debug\TaskWidget.pdb
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\obj\Debug\TaskWidget.dll.mdb
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\bin\Debug\TaskWidget.dll.mdb

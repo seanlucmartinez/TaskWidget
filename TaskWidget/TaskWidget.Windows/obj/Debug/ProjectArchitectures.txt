@@ -1,0 +1,2 @@
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget.Windows\TaskWidget.Windows.csproj;neutral
+c:\users\sean\documents\visual studio 2015\Projects\TaskWidget\TaskWidget\TaskWidget\TaskWidget.csproj;neutral
